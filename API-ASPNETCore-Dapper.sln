@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API-ASPNETCore-Dapper", "API-ASPNETCore-Dapper.csproj", "{0C4EDF3A-B974-41AB-851F-8F0AA7C4AC41}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIIndicadores", "APIIndicadores.csproj", "{0C4EDF3A-B974-41AB-851F-8F0AA7C4AC41}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
